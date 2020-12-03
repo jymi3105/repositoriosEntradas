@@ -1,0 +1,2 @@
+# repositoriosEntradas
+clase de juan
