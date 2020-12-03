@@ -1,2 +1,2 @@
-# repositoriosEntradas
-clase de juan
+# Venta_entradas
+Venta_entradas
